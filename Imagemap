@@ -1,0 +1,9 @@
+<html>
+<img src="/home/Sem6B7/Desktop/CSE445/workplace.jpg" alt="workspace" usemap="#workmap">
+<map name="workmap">
+<area shape="rect" coords="31,42,275,347" alt="Computer" href="/home/Sem6B7/Desktop/CSE445/Lists">
+<area shape="rect" coords="286,173,333,247" alt="Phone" href="/home/Sem6B7/Desktop/CSE445/Nested Lists">
+<area shape="circle" coords="338,298,47" alt="Coffee" href="/home/Sem6B7/Desktop/CSE445/Table,row span">
+</map>
+</html>
+
