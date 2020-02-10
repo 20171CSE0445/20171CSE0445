@@ -1,0 +1,15 @@
+<html>
+<title>Reference/Anchor Tags</title>
+<body>
+Click<a href="https://www.wikipedia.org/"> here</a>
+
+<a href="Resume#Education"/>Education</a>
+<p id="Education">
+
+
+<a href="https://www.google.com/">
+<img src="index.jpeg" alt="Google" Style="Width=42px;height=42px">
+</a>
+
+<a href="mailto:abc@examole.com">Send Email</a>
+</body>
