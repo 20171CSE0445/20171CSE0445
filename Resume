@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<body>
+<a href="https://en.wikipedia.org/wiki/MS_Dhoni"><img src="prv_be5ad_1443021990.jpg" style="float:right;height:150px;"></a>
+<h3>Naveen Kumar Reddy G</h3>
+<a href="mailto:naveengpl1999@gmail.com">naveengpl1999@gmail.com</a>
+<h3>+91 9931456720</h3><br><br>
+<hr>
+<h3>CV Highlights</h3>
+ <ul>
+   <li>Server Administrator</li>
+  <li>Coder in database-mysql and python</li>
+ </ul>
+<hr>
+<h3>Professional Experience</h3>
+ <ul>
+  <li>First order</li>
+  <h5> Job reputations</h5>
+  <ul type="circle">
+  <li>Server Administrator</li>
+  <li>Coder in database-mysql and python</li>
+ </ul><br>
+  <li>Second order</li>
+  <h5> Job reputations</h5>
+  <ul type="circle">
+  <li>Server Administrator</li>
+  <li>Coder in database-mysql and python</li>
+ </ul>
+ </ul>
+ <hr>
+ <h3>Eduction Qualification</h3>
+ <table border="1px" align="center">
+  <tr >
+   <th>Qualification</th>
+   <th>Record</th>
+   <th>Percentage/grade</th>
+   <th>Year</th>
+ </tr>
+ <tr style="text-align:center;">
+   <td>Btech</td>
+   <td>CSE</td>
+   <td>7.0</td>
+   <td>2021</td>
+</tr>
+  <tr style="text-align:center;">
+   <td>PUC</td>
+   <td>PCMB</td>
+   <td>71.5%</td>
+   <td>2017</td>
+  </tr>
+  <tr style="text-align:center;">
+   <td>SSLC</td>
+   <td>Kannada,Science,English,Hindi,Maths & social</td>
+   <td>84.96%</td>
+   <td>2015</td>
+  </tr>
+ </table>
+ <hr color="black">
+ <h3> Independent Course</h3>
+  <ul type="circle">
+  <li>Server Administration</li>
+ </ul><br>
+<hr color="black">
+ <h3>Technical Skills</h3>
+  <ul type="circle">
+  <li><span style="color:lightblue;">Programming languages:</span>Has hands-on experience over programming languages like C,Python and Java.</li>
+  <li><span style="color:lightblue;">Project management:</span>Experienced on projects developed and undertaken.</li>
+  <li><span style="color:lightblue;">Operating System:</span>Windows 10,8,7,XP;Windows Server 2012;Linux:Ubuntu</li>
+ </ul><br>
+<hr color="black">
+<h3>Certification/Award</h3>
+ <ul type="circle">
+  <li>Internship Certification done on "Server Administration" at Aminno Software Technologies Pvt.Ltd.</li>
+  <li>Secured cash award and 1st prize for "Safety traffic rules" quiz organized by Traffic Department, Karnataka Government of the academic year 2015 </li>
+  <li>Silver-Medal in inter region volleyball Tournament</li>
+ </ul><br>
+<hr color="black">
+ <h3>Personal Information</h3>
+  <ul type="circle">
+  <li>Traveller & Explorer</li>
+  <li>Like to watch movies,play games & web series</li>
+ 
+ </ul><br>
+ <hr color="black">
+ <h3>Other Information</h3>
+  <ul type="circle">
+  <li>Foody person,Reader</li>
+  <li>Interested in Social media,Technology </li>
+ 
+ </ul><br>
+<hr color="black">
+ <h3>Declaration</h3>
+ <p>I hereby declare that the above-mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above-mentioned particulars.</p>
+<p><b>Date:</b></p>
+<p><b>Place:</b></p>
+<p align="right">(Naveen Basavaraj Tavaragondi)</p>
+
+</body>
+</html>
