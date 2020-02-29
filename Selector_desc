@@ -1,0 +1,15 @@
+<html>
+<head>
+<style>
+div p{background-color:yellow;text-align:center;}
+</style>
+</head>
+<body>
+<div>
+<p>Para 1 in div</p>
+<h1><p>Para 2 in div</p></h1>
+</div>
+<p>Para 3 not in div</p>
+<p>Para 4 not in div</p>
+</body>
+</html>
