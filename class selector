@@ -1,3 +1,14 @@
 <html>
 <head>
-<style type="text/css media=all">
+<style>
+p.center{text-align:center;color:red;}
+p.large{font-size:300%;}
+</style>
+</head>
+
+<body>
+<p class="center">This heading will not be affected</p>
+<p class="large">This paragraph will be red and centered aligned</p>
+<p class="center large">This paragraph will be red,center aligned and large</p>
+</body>
+</html>
