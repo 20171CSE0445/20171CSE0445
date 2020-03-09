@@ -1,0 +1,15 @@
+<html>
+<style type="text/css">
+p.big{font-size:3ex;font-style:italic;font-family:sans-serif,"Helvetica Neue";font-stretch:ultra-expanded;}
+p.small{font:10pt bold 'Courier New';}
+h2{font-family:'Times New Roman';font-size:24pt;font-weight:bold}
+h3{font-family:'Courier New';font-size:18pt}
+</style>
+
+<body>
+<p class="big">Text is italic and ultra expanded</p>
+<p class="small">Text is 10pt bold</p>
+<h2>Font is times new roman</h2>
+<h3>Font is courier new</h3>
+</body>
+<html>

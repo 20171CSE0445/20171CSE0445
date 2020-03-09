@@ -1,0 +1,12 @@
+<html>
+<style>
+p.strike{text-align:center;text-transform:capitalize;text-decoration:line-through;}
+p.wavy{color:blue;text-align:right;text-shadow:8px 10px 20px red;text-decoration:blue wavy overline;}
+p.underline{text-decoration:underline;}
+</style>
+<body>
+<p class="strike">this illustrates line through</p>
+<p class="wavy">This illustrates overline</p>
+<p class="underline">This illustrates underline</p>
+</body>
+</html>
